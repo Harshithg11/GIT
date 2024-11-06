@@ -1,3 +1,6 @@
 From Acharya
+<<<<<<< HEAD
 hello
 i love acharya
+=======
+>>>>>>> 8ee1b1f (Added line)
